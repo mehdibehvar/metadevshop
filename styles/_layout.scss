@@ -1,0 +1,7 @@
+.layout{
+    border: 1px solid blue;
+    .nested_layout{
+        border: 1px solid red;
+        margin: 30px;
+    }
+}
